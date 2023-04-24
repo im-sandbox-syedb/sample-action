@@ -1,0 +1,5 @@
+name: Hello, World!
+description: Prints a greeting message
+runs:
+  using: "shell"
+  command: echo "Hello, World! CUSTOM ACTION"
